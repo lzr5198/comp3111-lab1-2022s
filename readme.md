@@ -1,4 +1,4 @@
 Name: Kevin
 ID: 12345678
 
-[plot](lab1.png)
+<img src="./lab1.png" width="100%" height="auto">
