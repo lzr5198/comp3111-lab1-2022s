@@ -1,4 +1,4 @@
-Kevin
-12345678
+Name: Kevin
+ID: 12345678
 
-[My image](lab1.png)
+[plot](lab1.png)
